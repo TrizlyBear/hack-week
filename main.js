@@ -25,11 +25,10 @@ for (const file of commandFiles) {
 	client.commands.set(command.name, command);
 }
 
-//if your bot starts up it will message "ready" to your command prompt, you .bat file
+//if your bot starts up it will message "ready" to your command prompt
 client.once('ready', () => {
 	console.log('Ready!');
-	// console.log(client.guilds.array().name)
-	// var interval = setInterval(randomstatus, 30000)
+	)
 });
 
 //this will check every message
@@ -110,20 +109,16 @@ client.on('message', message => {
 	}}
 });
 
-// function randomstatus() {
-// 	var statuses = [`>help | Online on ${client.guilds.size} servers`, `>help | Opening some virtual packs`, `>help | Just chillin`, `>help | Created by  Trizlybear#7066`, `>help | Managing ${client.guilds.size} servers`, `>help | Serving to ${client.users.size} users`]
-// 	var status = statuses[Math.floor(Math.random()*statuses.length)];
-// 	client.user.setActivity(status)
-// }
+
 
 //if the client (your bot) starts up it will set his activity
-client.on('ready', () => { client.user.setActivity(`on ${client.guilds.size} servers | do >help`)})
+client.on('ready', () => { client.user.setActivity(`on ${client.guilds.size} servers | do w!help`)})
 
 // if the bot is added to a server it will update his activity
 client.on("guildCreate", guild => {
 	
     console.log("Joined a new guild: " + guild.name);
-		client.user.setActivity(`on ${client.guilds.size} servers | do >help`)
+		client.user.setActivity(`on ${client.guilds.size} servers | do w!help`)
 
 })
 
@@ -131,7 +126,7 @@ client.on("guildCreate", guild => {
 client.on("guildDelete", guild => {
 	
     console.log("Left a guild: " + guild.name);
-		client.user.setActivity(`on ${client.guilds.size} servers | do >help`)
+		client.user.setActivity(`on ${client.guilds.size} servers | do w!help`)
 })
 
 
