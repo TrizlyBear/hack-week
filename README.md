@@ -19,8 +19,8 @@ Info commands:
 1. w!help [page]
 1. w!info
 
-Bot invite: [here](https://discordapp.com/api/oauth2/authorize?client_id=592281760256098304&permissions=51200&scope=bot)
-\nSupport server invite: [here](https://discord.gg/TRKjKX)
+Bot invite: [here](https://discordapp.com/api/oauth2/authorize?client_id=592281760256098304&permissions=51200&scope=bot)  return
+Support server invite: [here](https://discord.gg/TRKjKX)
 
 Permissions needed:
 
