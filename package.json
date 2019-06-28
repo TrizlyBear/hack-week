@@ -1,0 +1,22 @@
+{
+  "name": "hack-week",
+  "version": "1.0.0",
+  "description": "Discord hack week bot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hack-week"
+  },
+  "keywords": [
+    "hack-week"
+  ],
+  "author": "Tristan Schmidt",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-json-db": "^0.9.2"
+  }
+}
