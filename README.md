@@ -24,9 +24,7 @@ Info commands:
 
 Bot invite: [here](https://discordapp.com/api/oauth2/authorize?client_id=592281760256098304&permissions=51200&scope=bot)  <br />
 
-<figure class="video_container">
-  https://discordapp.com/widget?id=400653805013696512&theme=dark
-</figure>
+![Discord Banner 2](https://discordapp.com/api/guilds/400653805013696512/widget.png?style=banner2)
                                                                                                                                          
 
 Support server invite: [here](https://discord.gg/TRKjKX)
