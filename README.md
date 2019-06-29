@@ -23,7 +23,7 @@ Info commands:
 1. w!info - Shows general info about the bot, including credits and dependencies. 
 
 Bot invite: [here](https://discordapp.com/api/oauth2/authorize?client_id=592281760256098304&permissions=51200&scope=bot)  <br />
-<iframe src="https://discordapp.com/widget?id=400653805013696512&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe> <br />
+![embed]("https://discordapp.com/widget?id=400653805013696512&theme=dark)<br />
 Support server invite: [here](https://discord.gg/TRKjKX)
 
 Permissions needed:
