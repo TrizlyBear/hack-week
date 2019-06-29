@@ -25,7 +25,7 @@ Info commands:
 Bot invite: [here](https://discordapp.com/api/oauth2/authorize?client_id=592281760256098304&permissions=51200&scope=bot)  <br />
 
 <figure class="video_container">
-  <iframe src="https://discordapp.com/widget?id=400653805013696512&theme=dark"></iframe>
+  https://discordapp.com/widget?id=400653805013696512&theme=dark
 </figure>
                                                                                                                                          
 
