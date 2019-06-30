@@ -94,7 +94,7 @@ module.exports = {
                       icon_url: client.user.avatarURL,
                     },
                     title: 'Motor',
-                    description: `You can upgrade ${part}. \nWhat you can upgrade is acceleration and power.`,
+                    description: `You can't upgrade ${part}. \nWhat you can upgrade is acceleration and power.`,
                   }}) 
             } else {
                 if (part == "p" || part == "power") {
