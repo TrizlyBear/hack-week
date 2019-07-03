@@ -1,3 +1,4 @@
+# Bot is currently down, due to WIFI outage!
 # hack-week Wumpugotchi
 
 Heyo fellas, this is my repo for my discord hack week project. It's called Wumpugotchi. It is basically a wumpus pet, get your own wumpus and race in your nitro motor against other wumpuses. Buy cool skins for your wumpus, and yes even GIF skins. How cool is that?
